@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2058ee28-7462-4812-aa31-40dce6bf8dab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wed-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ColorList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LessThanSeven/LessThanSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedReverse/LinkedReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriorityColors/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriorityColors/PriorityCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriorityColors/PriorityColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriorityColors/YearCompare.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MQaYiaiGXex6MErycL9EROP8c4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ColorList">
+    <configuration name="ColorList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ColorList" />
+      <module name="Wed-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LessThanSeven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LessThanSeven.LessThanSeven" />
+      <module name="Wed-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LessThanSeven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedReverse.LinkedReverse" />
+      <module name="Wed-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedReverse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PriorityColors.PriorityCars" />
+      <module name="Wed-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PriorityColors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PriorityColors.PriorityColors" />
+      <module name="Wed-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PriorityColors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ColorList" />
+        <item itemvalue="Application.LinkedReverse" />
+        <item itemvalue="Application.LessThanSeven" />
+        <item itemvalue="Application.PriorityColors" />
+        <item itemvalue="Application.PriorityCars" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2058ee28-7462-4812-aa31-40dce6bf8dab" name="Changes" comment="" />
+      <created>1677702315042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677702315042</updated>
+    </task>
+    <servers />
+  </component>
+</project>
